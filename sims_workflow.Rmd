@@ -11,7 +11,7 @@ Define basic scenario set-up
 
 ```{r}
 
-#Number of sites in the landscape
+#Number of sites in the landscape from 1-n
 NSites <- 8
 
 #Number of species in the regional pool
